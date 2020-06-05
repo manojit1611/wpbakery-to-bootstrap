@@ -6,7 +6,7 @@ This will enable you to convert vc classes into bootstrap.
  
 2.Grid system of Bootstrap
  
-3.Basic button preset like primary , secondary, outline primary , and outline secondary button of bootsrap
+3.Basic button preset like primary , secondary, outline primary , and outline secondary
     
 
 ## Setps : 
