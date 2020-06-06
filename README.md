@@ -1,4 +1,4 @@
-# wpbakery-to-bootstrap
+# wpbakery-to-bootstrap in wordpress
 This will enable you to convert vc classes into bootstrap.
 
 ## Feature supports :
